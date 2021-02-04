@@ -18,4 +18,6 @@ public class ReverseString {
 
         return result;
     }
+
+    // some practice here
 }
