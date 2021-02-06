@@ -20,4 +20,4 @@ public class RemoveDuplicates {
     }
 }
 
-// The name is should be INARA
+// The name is bakhtiar
