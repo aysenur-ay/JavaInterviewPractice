@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 public class RemoveAhmed {
     public static void main(String[] args) {
+
+
         String[] names = {"Umar", "Muhtar","Ahmed"};
 
         ArrayList<String> list = new ArrayList<>(Arrays.asList(names));
