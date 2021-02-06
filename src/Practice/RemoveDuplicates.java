@@ -2,7 +2,7 @@ package Practice;
 
 public class RemoveDuplicates {
     public static void main(String[] args) {
-        String str = "UUMMAARR";
+        String str = "IIIIINNNNNNAAAARRRRRAAAA";
         System.out.println(removeDuplicates(str));
 
     }
@@ -19,3 +19,5 @@ public class RemoveDuplicates {
 
     }
 }
+
+// The name is should be INARA
