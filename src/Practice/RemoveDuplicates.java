@@ -2,7 +2,7 @@ package Practice;
 
 public class RemoveDuplicates {
     public static void main(String[] args) {
-        String str = "IIIIINNNNNNAAAARRRRRAAAA";
+        String str = "LOOOOOOOLLLLLAAA";
         System.out.println(removeDuplicates(str));
 
     }
